@@ -7,9 +7,12 @@
 >I graduated from Anadolu University Industrial Engineering  in Turkey
 
 ## My Works
-Company          | Title  
----------------    ---------------
-Türk Telekom       Business Analysis Process Development Specialist
+
+Company | Title  
+--------|------    
+Türk Telekom | Business Analysis Process Development Specialist
+
+
 
 
 
