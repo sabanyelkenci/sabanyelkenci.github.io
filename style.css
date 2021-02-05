@@ -1,6 +1,22 @@
 body {
-  background-image: url(https://www.qs.com/wp-content/uploads/2020/10/latin-america-rankings.jpg);
- 
+  background-color: white;
+}
+
+.home-page {
+  background-image: url("https://www.saturdayeveningpost.com/wp-content/uploads/satevepost/2019-04-19-planet-earth.jpg");
+  background-color: #cccccc;
+  height: 500px;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  position: relative;
+}
+
+.home-page-txt {
+  text-align: right;
+  margin-right: 150px;
+  color: black;
+  letter-spacing: 5px;
 }
 
 .header {
@@ -17,22 +33,20 @@ ul {
   padding: 20;
   overflow: hidden;
   background-color: transparent;
-
 }
 
 li {
   float: right;
-  
 }
 
 li a {
   display: inline-block;
-  color: white;
+  color: black;
   line-height: 24px;
   text-align: center;
   padding: 14px 16px;
   text-decoration: none;
-  font-size: 13px;
+  font-size: 19px;
   font-family: Georgia, "Times New Roman", Times, serif;
 }
 
@@ -42,10 +56,9 @@ li a:hover:not(.active) {
 
 li a.active {
   color: black;
-  background-color: rgb(240, 190, 79) ;
+  background-color: rgb(240, 190, 79);
 }
 
 li a :visited {
-
-color: blue;
+  color: blue;
 }
