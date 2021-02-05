@@ -64,3 +64,9 @@ li a.active {
 li a :visited {
   color: blue;
 }
+
+
+.about-me {
+  text-align: center;
+  
+}
