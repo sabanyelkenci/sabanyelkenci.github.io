@@ -14,7 +14,9 @@ body {
 
 .home-page-txt {
   text-align: right;
-  margin-right: 150px;
+  
+  padding-right: 150px;
+  padding-top: 200px;
   color: black;
   letter-spacing: 5px;
 }
