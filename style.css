@@ -1,0 +1,51 @@
+body {
+  background-image: url(https://www.qs.com/wp-content/uploads/2020/10/latin-america-rankings.jpg);
+ 
+}
+
+.header {
+  font-style: normal;
+  text-align: center;
+  padding: 0px;
+  font-size: 8vw;
+  margin: 0;
+}
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 20;
+  overflow: hidden;
+  background-color: transparent;
+
+}
+
+li {
+  float: right;
+  
+}
+
+li a {
+  display: inline-block;
+  color: white;
+  line-height: 24px;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 13px;
+  font-family: Georgia, "Times New Roman", Times, serif;
+}
+
+li a:hover:not(.active) {
+  background-color: rgb(240, 190, 79);
+}
+
+li a.active {
+  color: black;
+  background-color: rgb(240, 190, 79) ;
+}
+
+li a :visited {
+
+color: blue;
+}
